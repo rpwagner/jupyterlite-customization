@@ -1,0 +1,5 @@
+theme: minima
+title: Cheap FAIR and Interactive POC
+description: How to host data with interactivity
+show_downloads: false
+exclude: nextlevel
