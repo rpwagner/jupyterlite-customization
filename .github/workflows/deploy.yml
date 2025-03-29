@@ -20,15 +20,17 @@ jobs:
           python-version: '3.11'
       - name: Install the dependencies
         run: |
+	  cd nextlevel
           python -m pip install -r requirements.txt
       - name: Build the JupyterLite site
         run: |
-          cp README.md content
+	  cp README.md nextlevel/content
+	  cd nextlevel
           jupyter lite build --contents content --output-dir dist
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./dist
+          path: ./nextlevel
 
   deploy:
     needs: build
