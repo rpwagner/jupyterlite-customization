@@ -27,6 +27,7 @@ jobs:
           cp README.md nextlevel/content
           cd nextlevel
           jupyter lite build --contents content --output-dir custom
+          # https://rpwagner.github.io/jupyterlite-customization/nextlevel/custom/lab/index.html
       - name: Setup Ruby
         # https://github.com/ruby/setup-ruby/releases/tag/v1.207.0
         uses: ruby/setup-ruby@v1.229.0
