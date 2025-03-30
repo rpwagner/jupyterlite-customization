@@ -3,4 +3,4 @@ layout: home
 ---
 # Cheap FAIR Interactive POC
 
-[link to JupyterLite](./nextlevel/)
+[link to JupyterLite](./nextlevel/custom)

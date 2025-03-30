@@ -1,0 +1,4 @@
+Headers for the text files within this drive.
+
+Year, Month, Day, Hour, Minute, Second, Pressure (hPa), Temperature (C), Dew Point (C), Wind Direction (degrees), Wind Speed (m/s), Height (m), Latitude, Longitude
+
