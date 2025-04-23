@@ -12,7 +12,7 @@ This is a simple exmample of how to embed a [Jupyter REPL](https://jupyterlite.r
 <iframe
   src="https://rpwagner.github.io/jupyterlite-customization/nextlevel/custom/repl/index.html?kernel=python&toolbar=1&code=import globus_sdk"
   width="100%"
-  height="300%"
+  height="450px"
 ></iframe>
 
 ## Notes
