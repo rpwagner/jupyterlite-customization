@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Embedding a Jupyter notebook REPL"
-date:   2025-04-28 12:34:51 -0700
+date:   2025-04-22 10:34:51 -0700
 categories: jupyter
 ---
 
