@@ -5,7 +5,7 @@ date:   2025-04-22 10:34:51 -0700
 categories: jupyter
 ---
 
-This is a simple exmample of how to embed a [Jupyter REPL](https://jupyterlite.readthedocs.io/en/stable/quickstart/embed-repl.html) using an `iframe`.
+This is a simple exmample of how to embed a [Jupyter REPL](https://jupyterlite.readthedocs.io/en/stable/quickstart/embed-repl.html) using an `iframe`. ([Source Markdown page](https://github.com/rpwagner/jupyterlite-customization/blob/main/_posts/2025-04-22-embedded-repl.md))
 
 ## Built-In REPL
 
